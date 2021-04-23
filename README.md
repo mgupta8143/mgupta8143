@@ -6,7 +6,7 @@
 - 💬 Ask me about anything related to JavaScript frameworks/libraries and machine learning
 - 📫 How to reach me: mgupta8143@gmail.com
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I wanted to be an astronaut when I was a kid. 🚀🌌
+- ⚡ Fun fact: On my free time, I like meditating and reading about astronauts. 🚀🌌
 
 <!--
 **mgupta8143/mgupta8143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
