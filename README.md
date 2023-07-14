@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on CLIPSearch, an experimental AI-powered platform for text-based image search
-- 🌱 I’m currently learning more about encoders, transformers, and computer graphics
+- 🌱 I’m currently learning more about operating systems, computer graphics, and compilers.
 - 👯 I’m looking to collaborate on any types of projects that are interesting and have impact
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: mgupta8143@gmail.com
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: On my free time, I like exploring mathematical concepts and eating food! 🚀🌌
+- ⚡ Fun fact: On my free time, I like exploring trying out different cuisines and reading startup articles! 🚀🌌
 
 <!--
 **mgupta8143/mgupta8143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
