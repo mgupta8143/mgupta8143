@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CLIPSearch, an experimental AI-powered platform for text-based image search
+- 🔭 I’m currently working on BevCam, an experimental AI-powered platform for photorealistic text-based image editing
 - 🌱 I’m currently learning more about operating systems, computer graphics, and compilers.
 - 👯 I’m looking to collaborate on any types of projects that are interesting and have impact
 - 💬 Ask me about anything you want!
