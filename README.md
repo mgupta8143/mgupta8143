@@ -1,24 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BevCam, an experimental AI-powered platform for photorealistic text-based image editing
-- 🌱 I’m currently learning more about operating systems, computer graphics, and compilers.
-- 👯 I’m looking to collaborate on any types of projects that are interesting and have impact
-- 💬 Ask me about anything you want!
-- 📫 How to reach me: mgupta8143@gmail.com
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact: On my free time, I like exploring trying out different cuisines and reading startup articles! 🚀🌌
+* 🔭 I’m currently exploring **ML research ideas** and experimenting with new approaches in AI, while thinking about the next big startup idea to build.
+* 🌱 I’m currently learning more about **AI research, machine learning, and the ideas behind emerging technologies**.
+* 👯 I’m looking to collaborate on **interesting projects with the potential to have real-world impact**.
+* 💬 Ask me about **AI, startups, or anything interesting!**
+* 📫 How to reach me: [mgupta8143@gmail.com](mailto:mgupta8143@gmail.com)
+* 😄 Pronouns: He/him/his
+* ⚡ Fun fact: In my free time, I love **exploring different cuisines, reading about startups, and learning about new technologies**! 🚀🌌
 
-<!--
-**mgupta8143/mgupta8143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
